@@ -1,0 +1,471 @@
+library,postcode,latitude,longitude,county,region,country
+Kincorth Library,AB12 5NA,57.12082,-2.10409,Aberdeen,Scotland,United Kingdom
+Aberdeen Central Library,AB25 1GW,57.14791,-2.10586,Aberdeen,Scotland,United Kingdom
+Airyhall Library,AB15 7RF,57.13222,-2.14921,Aberdeen,Scotland,United Kingdom
+Bridge of Don Library,AB22 8HH,57.18125,-2.09996,Aberdeen,Scotland,United Kingdom
+Bucksburn Library,AB21 9DG,57.17664,-2.18226,Aberdeen,Scotland,United Kingdom
+Cornhill Library,AB16 5UT,57.15923,-2.14225,Aberdeen,Scotland,United Kingdom
+Cove Library,AB12 3HE,57.10415,-2.0858,Aberdeen,Scotland,United Kingdom
+Culter Library,AB14 0UJ,57.09594,-2.26704,Aberdeen,Scotland,United Kingdom
+Cults Library and Learning Centre,AB15 9SX,57.11729,-2.17719,Aberdeen,Scotland,United Kingdom
+Dyce Library,AB21 7BD,57.20584,-2.18608,Aberdeen,Scotland,United Kingdom
+Ferryhill Library,AB11 6UP,57.13719,-2.11229,Aberdeen,Scotland,United Kingdom
+Kaimhill Library,AB10 7HR,57.12365,-2.12774,Aberdeen,Scotland,United Kingdom
+Mastrick Library,AB16 6TR,57.15622,-2.16336,Aberdeen,Scotland,United Kingdom
+Northfield Library,AB16 7LL,57.16593,-2.16212,Aberdeen,Scotland,United Kingdom
+Tillydrone Library,AB24 2UY,57.17176,-2.11578,Aberdeen,Scotland,United Kingdom
+Torry Library,AB11 9NJ,57.13656,-2.08562,Aberdeen,Scotland,United Kingdom
+Woodside Library,AB24 4DX,57.17036,-2.1286,Aberdeen,Scotland,United Kingdom
+Aberchirder Library,AB54 7TB,57.56106,-2.6264,Aberdeenshire,Scotland,United Kingdom
+Aberdeenshire Library and Information Service Library Headquarters,AB51 0GN,57.33202,-2.32582,Aberdeenshire,Scotland,United Kingdom
+Aboyne Library,AB34 5JN,57.07488,-2.79352,Aberdeenshire,Scotland,United Kingdom
+Alford Library,AB33 8TY,57.23236,-2.70735,Aberdeenshire,Scotland,United Kingdom
+Ballater Library,AB35 5QB,57.04982,-3.04023,Aberdeenshire,Scotland,United Kingdom
+Balmedie Library,AB23 8YF,57.25028,-2.05669,Aberdeenshire,Scotland,United Kingdom
+Banchory Library,AB31 5SU,57.05066,-2.50375,Aberdeenshire,Scotland,United Kingdom
+Banff Library,AB45 1AE,57.66383,-2.52301,Aberdeenshire,Scotland,United Kingdom
+Boddam Library,AB42 3AX,57.47093,-1.77874,Aberdeenshire,Scotland,United Kingdom
+Bracoden Library,AB45 3HA,57.66597,-2.32269,Aberdeenshire,Scotland,United Kingdom
+Cairnbulg/Inverallochy Library,AB43 8WQ,57.67591,-1.93402,Aberdeenshire,Scotland,United Kingdom
+Cruden Bay Library,AB42 0NL,57.41679,-1.86128,Aberdeenshire,Scotland,United Kingdom
+Ellon Library,AB41 9AE,57.36517,-2.07273,Aberdeenshire,Scotland,United Kingdom
+Fettercairn Library,AB30 1TH,56.85216,-2.5756,Aberdeenshire,Scotland,United Kingdom
+Fraserburgh Library,AB43 9PN,57.68832,-2.01058,Aberdeenshire,Scotland,United Kingdom
+Huntly Library,AB54 8BP,57.44851,-2.7857,Aberdeenshire,Scotland,United Kingdom
+Insch Library,AB52 6JJ,57.34088,-2.61228,Aberdeenshire,Scotland,United Kingdom
+Inverbervie Library,DD10 0RU,56.84546,-2.28202,Aberdeenshire,Scotland,United Kingdom
+Inverurie Library,AB51 3SN,57.28456,-2.3741,Aberdeenshire,Scotland,United Kingdom
+Kemnay Library,AB51 5RN,57.23489,-2.44293,Aberdeenshire,Scotland,United Kingdom
+Kintore Library,AB51 0RU,57.23473,-2.34891,Aberdeenshire,Scotland,United Kingdom
+Macduff Library,AB44 1LR,57.66946,-2.49247,Aberdeenshire,Scotland,United Kingdom
+Mearns Community Library,AB30 1ZJ,56.83585,-2.45949,Aberdeenshire,Scotland,United Kingdom
+Meldrum Library,AB51 0GN,57.33202,-2.32582,Aberdeenshire,Scotland,United Kingdom
+Mintlaw Library,AB42 5GP,57.52376,-2.00986,Aberdeenshire,Scotland,United Kingdom
+New Pitsligo Library,AB43 6NH,57.58876,-2.19512,Aberdeenshire,Scotland,United Kingdom
+Newmachar Library,AB21 0WB,57.26502,-2.18709,Aberdeenshire,Scotland,United Kingdom
+Newtonhill Library,AB39 3UL,57.03093,-2.14848,Aberdeenshire,Scotland,United Kingdom
+Peterhead Library,AB42 1QD,57.50679,-1.7821,Aberdeenshire,Scotland,United Kingdom
+Portlethen Library,AB12 4QL,57.05941,-2.13113,Aberdeenshire,Scotland,United Kingdom
+Portsoy Library,AB45 2RH,57.68234,-2.68776,Aberdeenshire,Scotland,United Kingdom
+Rosehearty Library,AB43 7JL,57.69498,-2.1186,Aberdeenshire,Scotland,United Kingdom
+Stonehaven Library,AB39 2ET,56.96358,-2.2119,Aberdeenshire,Scotland,United Kingdom
+Strichen Library,AB43 6ST,57.58715,-2.09359,Aberdeenshire,Scotland,United Kingdom
+Turriff Library,AB53 4AE,57.53927,-2.46046,Aberdeenshire,Scotland,United Kingdom
+Westhill Library,AB32 6FY,57.15524,-2.27838,Aberdeenshire,Scotland,United Kingdom
+Whitehills Library,AB45 2LT,57.67674,-2.57744,Aberdeenshire,Scotland,United Kingdom
+Arbroath Library,DD11 1AH,56.55937,-2.57924,Angus,Scotland,United Kingdom
+Brechin Library,DD9 7AD,56.73228,-2.65344,Angus,Scotland,United Kingdom
+Carnoustie Library,DD7 6AN,56.50145,-2.70794,Angus,Scotland,United Kingdom
+Forfar Library,DD8 1BA,56.64388,-2.89,Angus,Scotland,United Kingdom
+Kirriemuir Library,DD8 4BS,56.67391,-3.00401,Angus,Scotland,United Kingdom
+Monifieth Library,DD5 4AE,56.48172,-2.81756,Angus,Scotland,United Kingdom
+Montrose Library,DD10 8PH,56.7104,-2.46874,Angus,Scotland,United Kingdom
+Campbeltown Library,PA28 6EH,55.42834,-5.60101,Argyll and Bute,Scotland,United Kingdom
+Cardross Library,G82 5PX,55.96291,-4.65398,Argyll and Bute,Scotland,United Kingdom
+Dunoon Library,PA23 7HH,55.94734,-4.9241,Argyll and Bute,Scotland,United Kingdom
+Helensburgh Library,G84 8EB,56.00563,-4.73746,Argyll and Bute,Scotland,United Kingdom
+Lochgilphead Library,PA31 8QX,56.03625,-5.4277,Argyll and Bute,Scotland,United Kingdom
+Oban Library,PA34 5AL,56.42139,-5.4761,Argyll and Bute,Scotland,United Kingdom
+Rosneath Library,G84 0RJ,56.011,-4.80361,Argyll and Bute,Scotland,United Kingdom
+Rothesay Library,PA20 0BX,55.83584,-5.05527,Argyll and Bute,Scotland,United Kingdom
+Tarbert Library,PA29 6UA,55.86324,-5.41521,Argyll and Bute,Scotland,United Kingdom
+Tobermory Library,PA75 6PB,56.62255,-6.07043,Argyll and Bute,Scotland,United Kingdom
+Alloa Library,FK10 1AD,56.1172,-3.79172,Clackmannanshire,Scotland,United Kingdom
+Alva Community Access Point,FK12 5AN,56.15172,-3.79804,Clackmannanshire,Scotland,United Kingdom
+Sauchie Community Access Point,FK10 3EA,56.12693,-3.78266,Clackmannanshire,Scotland,United Kingdom
+Tillicoultry Library,FK13 6AG,56.15283,-3.74679,Clackmannanshire,Scotland,United Kingdom
+Tullibody Library,FK10 2SD,56.1333,-3.84222,Clackmannanshire,Scotland,United Kingdom
+Annan Library,DG12 6AQ,54.98728,-3.26456,Dumfries and Galloway,Scotland,United Kingdom
+Castle Douglas Library,DG7 1AE,54.94157,-3.9282,Dumfries and Galloway,Scotland,United Kingdom
+Dalbeattie Library,DG5 4AD,54.93274,-3.8218,Dumfries and Galloway,Scotland,United Kingdom
+"Dalry Library, Castle Douglas",DG7 3UP,55.10615,-4.16295,Dumfries and Galloway,Scotland,United Kingdom
+Eastriggs Library,DG12 6PZ,54.98626,-3.17746,Dumfries and Galloway,Scotland,United Kingdom
+Ewart Library,DG1 1JB,55.07129,-3.60957,Dumfries and Galloway,Scotland,United Kingdom
+Gatehouse Library,DG7 2HS,54.88173,-4.18477,Dumfries and Galloway,Scotland,United Kingdom
+Georgetown Library,DG1 4EJ,55.06391,-3.58676,Dumfries and Galloway,Scotland,United Kingdom
+Gretna Library and Customer Service Centre,DG16 5AQ,54.99444,-3.06732,Dumfries and Galloway,Scotland,United Kingdom
+Kirkconnel Library,DG4 6RA,55.37834,-3.99151,Dumfries and Galloway,Scotland,United Kingdom
+Kirkcudbright Library,DG6 4PJ,54.83493,-4.05251,Dumfries and Galloway,Scotland,United Kingdom
+Langholm Library,DG13 0JQ,55.15082,-2.99826,Dumfries and Galloway,Scotland,United Kingdom
+Lochmaben Library,DG11 1NQ,55.12913,-3.44161,Dumfries and Galloway,Scotland,United Kingdom
+Lochside Library,DG2 9DF,55.07242,-3.62094,Dumfries and Galloway,Scotland,United Kingdom
+Lochthorn Library,DG1 1UF,55.09828,-3.58292,Dumfries and Galloway,Scotland,United Kingdom
+Lockerbie Library,DG11 2JL,55.12252,-3.35635,Dumfries and Galloway,Scotland,United Kingdom
+Moffat Library,DG10 9HF,55.33315,-3.44476,Dumfries and Galloway,Scotland,United Kingdom
+Newton Stewart Library,DG8 6ER,54.95755,-4.48571,Dumfries and Galloway,Scotland,United Kingdom
+Port William Library,DG8 9SD,54.76114,-4.58371,Dumfries and Galloway,Scotland,United Kingdom
+Sanquhar Library,DG4 6DZ,55.36664,-3.92116,Dumfries and Galloway,Scotland,United Kingdom
+Stranraer Library,DG9 7LD,54.9049,-5.0266,Dumfries and Galloway,Scotland,United Kingdom
+Thornhill Library,DG3 5NW,55.23839,-3.76671,Dumfries and Galloway,Scotland,United Kingdom
+Whithorn Library,DG8 8PF,54.73524,-4.41459,Dumfries and Galloway,Scotland,United Kingdom
+Wigtown Library,DG8 9JH,54.86856,-4.4414,Dumfries and Galloway,Scotland,United Kingdom
+Ardler Community Library,DD2 3TP,56.48799,-3.01418,Dundee,Scotland,United Kingdom
+Arthurstone Community Library,DD4 6RT,56.4695,-2.95787,Dundee,Scotland,United Kingdom
+Charleston Community Centre and Library,DD2 4NL,56.47374,-3.03502,Dundee,Scotland,United Kingdom
+Coldside Community Library,DD3 7SE,56.47453,-2.98046,Dundee,Scotland,United Kingdom
+Douglas Community and Library Centre,DD4 8SD,56.47919,-2.90435,Dundee,Scotland,United Kingdom
+Dundee City Council. Central Library,DD1 1DB,56.46459,-2.96925,Dundee,Scotland,United Kingdom
+Dundee City Council. HUB Community Centre and Library,DD4 8ES,56.48287,-2.93482,Dundee,Scotland,United Kingdom
+Fintry Community Library,DD4 9EW,56.49096,-2.94558,Dundee,Scotland,United Kingdom
+Kirkton Community Centre and Library,DD3 0AX,56.48746,-2.98667,Dundee,Scotland,United Kingdom
+Lochee Community Library,DD2 3AU,56.47099,-3.00875,Dundee,Scotland,United Kingdom
+Menzieshill Community Centre and Library,DD2 4TQ,56.46687,-3.03842,Dundee,Scotland,United Kingdom
+Whitfield Community Library & Learning Centre,DD4 0HU,56.48961,-2.91726,Dundee,Scotland,United Kingdom
+Blackness Community Library,DD2 1EJ,56.45679,-2.99686,Dundee,Scotland,United Kingdom
+Broughty Ferry Community Library,DD5 2HN,56.46833,-2.87467,Dundee,Scotland,United Kingdom
+Auchinleck Library,KA18 2JY,55.47309,-4.29139,East Ayrshire,Scotland,United Kingdom
+Burns House Library,KA5 5BZ,55.51604,-4.37983,East Ayrshire,Scotland,United Kingdom
+Crosshouse Library,KA2 0LE,55.61189,-4.54803,East Ayrshire,Scotland,United Kingdom
+Cumnock Library,KA18 1LH,55.4527,-4.26083,East Ayrshire,Scotland,United Kingdom
+Darvel Library,KA17 0AQ,55.60969,-4.28367,East Ayrshire,Scotland,United Kingdom
+Drongan Library,KA6 7BY,55.43289,-4.45874,East Ayrshire,Scotland,United Kingdom
+East Ayrshire Leisure. Dick Institute,KA1 3BU,55.60852,-4.48964,East Ayrshire,Scotland,United Kingdom
+Galston Library,KA4 8HQ,55.60064,-4.37788,East Ayrshire,Scotland,United Kingdom
+Newmilns Library,KA16 9DQ,55.60738,-4.32431,East Ayrshire,Scotland,United Kingdom
+Patna Community Library,KA6 7LY,55.36228,-4.50112,East Ayrshire,Scotland,United Kingdom
+Stewarton Library,KA3 5AP,55.68204,-4.51552,East Ayrshire,Scotland,United Kingdom
+Whatriggs Library,KA1 3SZ,55.5903,-4.48334,East Ayrshire,Scotland,United Kingdom
+Bishopbriggs Library,G64 2LX,55.90616,-4.22341,East Dunbartonshire,Scotland,United Kingdom
+Bearsden Library,G61 3QT,55.92008,-4.33482,East Dunbartonshire,Scotland,United Kingdom
+Craighead Library,G66 8DL,55.9658,-4.1603,East Dunbartonshire,Scotland,United Kingdom
+Lennoxtown Library,G66 7JJ,55.97448,-4.20201,East Dunbartonshire,Scotland,United Kingdom
+Lenzie Library,G66 5BG,55.92015,-4.15677,East Dunbartonshire,Scotland,United Kingdom
+Milngavie Library,G62 8PN,55.94311,-4.32061,East Dunbartonshire,Scotland,United Kingdom
+Westerton Library,G61 1NZ,55.90706,-4.33684,East Dunbartonshire,Scotland,United Kingdom
+William Patrick Library,G66 1AD,55.94155,-4.15904,East Dunbartonshire,Scotland,United Kingdom
+Dunbar Library,EH42 1DX,55.99989,-2.51986,East Lothian,Scotland,United Kingdom
+East Linton Library,EH40 3BX,55.98874,-2.65724,East Lothian,Scotland,United Kingdom
+Gullane Library,EH31 2AF,56.03309,-2.82922,East Lothian,Scotland,United Kingdom
+Haddington Library,EH41 3DX,55.9552,-2.7789,East Lothian,Scotland,United Kingdom
+John Gray Centre Library,EH41 3PJ,55.9607,-2.7743,East Lothian,Scotland,United Kingdom
+Longniddry Library,EH32 0LW,55.97695,-2.89593,East Lothian,Scotland,United Kingdom
+Musselburgh Library,EH21 6AG,55.9426,-3.05567,East Lothian,Scotland,United Kingdom
+North Berwick Library,EH39 4JU,56.0587,-2.7151,East Lothian,Scotland,United Kingdom
+Ormiston Library,EH35 5LQ,55.91116,-2.94277,East Lothian,Scotland,United Kingdom
+Port Seton Library,EH32 0BG,55.9694,-2.94797,East Lothian,Scotland,United Kingdom
+Prestonpans Library,EH32 9NX,55.95874,-2.98144,East Lothian,Scotland,United Kingdom
+Tranent Library,EH33 1AE,55.94502,-2.95351,East Lothian,Scotland,United Kingdom
+Wallyford Library,EH21 8FF,,,East Lothian,Scotland,United Kingdom
+Barrhead Community Library,G78 1SW,55.8019,-4.38955,East Renfrewshire,Scotland,United Kingdom
+Eaglesham Community Library,G76 0LH,55.74174,-4.2755,East Renfrewshire,Scotland,United Kingdom
+Mearns Community Library,G77 6EZ,55.77309,-4.33303,East Renfrewshire,Scotland,United Kingdom
+Neilston Community Library,G78 3NN,55.78565,-4.42301,East Renfrewshire,Scotland,United Kingdom
+Uplawmoor Community Library,G78 4AD,55.76431,-4.49398,East Renfrewshire,Scotland,United Kingdom
+Balerno Library,EH14 7EQ,55.88405,-3.33857,Edinburgh,Scotland,United Kingdom
+Balgreen Library,EH11 3AT,55.93732,-3.24837,Edinburgh,Scotland,United Kingdom
+Blackhall Library,EH4 5EG,55.96166,-3.26115,Edinburgh,Scotland,United Kingdom
+Colinton Library,EH13 0BQ,55.90661,-3.25127,Edinburgh,Scotland,United Kingdom
+Corstorphine Library,EH12 7HD,55.94192,-3.28153,Edinburgh,Scotland,United Kingdom
+Craigmillar Library,EH16 4DS,55.93324,-3.13632,Edinburgh,Scotland,United Kingdom
+Currie Library,EH14 5NX,55.8964,-3.30951,Edinburgh,Scotland,United Kingdom
+Drumbrae Library,EH4 7FE,55.95542,-3.28755,Edinburgh,Scotland,United Kingdom
+Dalkeith Library,EH22 1AE,55.89307,-3.07014,,,
+Edinburgh Central Library,EH1 1RF,55.9495,-3.18985,Edinburgh,Scotland,United Kingdom
+Fountainbridge Library,EH11 1BG,55.94006,-3.21834,Edinburgh,Scotland,United Kingdom
+Gilmerton Library,EH17 8RG,55.90532,-3.13417,Edinburgh,Scotland,United Kingdom
+Granton Library,EH5 1DD,55.97692,-3.22476,Edinburgh,Scotland,United Kingdom
+Kirkliston Library,EH29 9BE,55.95526,-3.40152,Edinburgh,Scotland,United Kingdom
+Leith Community Library,EH6 4AE,55.97527,-3.18078,Edinburgh,Scotland,United Kingdom
+McDonald Road Library,EH7 4LU,55.96158,-3.1816,Edinburgh,Scotland,United Kingdom
+Moredun Library,EH177HL,55.91296,-3.13313,Edinburgh,Scotland,United Kingdom
+Morningside Library,EH10 4PU,55.9289,-3.2099,Edinburgh,Scotland,United Kingdom
+Muirhouse Library,EH4 4TZ,55.97128,-3.25345,Edinburgh,Scotland,United Kingdom
+Newington Library,EH9 2LN,55.93179,-3.18087,Edinburgh,Scotland,United Kingdom
+Oxgangs Library,EH13 9LY,55.90478,-3.22295,Edinburgh,Scotland,United Kingdom
+Piershill Library,EH8 7BQ,55.95507,-3.14255,Edinburgh,Scotland,United Kingdom
+Portobello Library,EH15 1AU,55.95269,-3.1177,Edinburgh,Scotland,United Kingdom
+Ratho Library,EH28 8TT,55.92227,-3.38423,Edinburgh,Scotland,United Kingdom
+Sighthill Library,EH11 4PB,55.9206,-3.28726,Edinburgh,Scotland,United Kingdom
+South Neighbourhood Office and Library,EH17 8QF,55.90298,-3.153,Edinburgh,Scotland,United Kingdom
+South Queensferry Library,EH30 9RD,55.99121,-3.40032,Edinburgh,Scotland,United Kingdom
+Stockbridge library,EH3 5BA,55.95937,-3.20747,Edinburgh,Scotland,United Kingdom
+Wester Hailes Library,EH14 2ST,55.91627,-3.28504,Edinburgh,Scotland,United Kingdom
+Castlebay Library,HS9 5XD,56.95561,-7.4877,Comhairle nan Eilean Siar,Scotland,United Kingdom
+Lionacleit Community Library,HS7 5PJ,57.42557,-7.35857,Comhairle nan Eilean Siar,Scotland,United Kingdom
+Stornoway Library,HS1 2DA,58.20859,-6.38826,Comhairle nan Eilean Siar,Scotland,United Kingdom
+Tarbert Community Library,HS3 3BG,57.90171,-6.81385,Comhairle nan Eilean Siar,Scotland,United Kingdom
+Bo'ness Library,EH51 0AH,56.01792,-3.60898,Falkirk,Scotland,United Kingdom
+Bonnybridge Library,FK4 1AD,56.00021,-3.88668,Falkirk,Scotland,United Kingdom
+Denny Library,FK6 6FA,56.0236,-3.90849,Falkirk,Scotland,United Kingdom
+Falkirk Library,FK1 5AU,56.00162,-3.78859,Falkirk,Scotland,United Kingdom
+Grangemouth Library,FK3 8AG,56.01907,-3.72195,Falkirk,Scotland,United Kingdom
+Larbert Library,FK5 3JX,56.02426,-3.81698,Falkirk,Scotland,United Kingdom
+Meadowbank Library,FK2 0GU,55.98581,-3.71912,Falkirk,Scotland,United Kingdom
+Slamannan Library,FK1 3EX,55.93708,-3.83318,Falkirk,Scotland,United Kingdom
+Benarty Library,KY5 8JH,56.15998,-3.32646,Fife,Scotland,United Kingdom
+Lochgelly Library,KY5 9RD,56.12925,-3.31078,Fife,Scotland,United Kingdom
+Cowdenbeath Library,KY4 9QA,56.11364,-3.34449,Fife,Scotland,United Kingdom
+Cardenden Library,KY5 0EL,56.13918,-3.25042,Fife,Scotland,United Kingdom
+Kelty Library,KY4 0AQ,56.1354,-3.38174,Fife,Scotland,United Kingdom
+Dunfirmline Library,KY12 7NL,56.07026,-3.46186,Fife,Scotland,United Kingdom
+Duloch Library,KY11 8LW,56.06195,-3.40223,Fife,Scotland,United Kingdom
+Leslie Library,KY6 3AX,56.20065,-3.2156,Fife,Scotland,United Kingdom
+Cadham Library,KY7 6RU,56.20794,-3.16979,Fife,Scotland,United Kingdom
+Rothes Library,KY7 5NX,56.19605,-3.17608,Fife,Scotland,United Kingdom
+Burntisland Library,KY3 9AS,56.05878,-3.23532,Fife,Scotland,United Kingdom
+Kirkcaldy Library,KY1 1YG,56.11232,-3.16594,Fife,Scotland,United Kingdom
+Templehall Library,KY2 6EX,56.12739,-3.18416,Fife,Scotland,United Kingdom
+Windmill Library,KY1 2YY,56.13221,-3.12695,Fife,Scotland,United Kingdom
+Leven Library,KY8 4HE,56.19595,-2.99649,Fife,Scotland,United Kingdom
+Kennoway Library,KY8 5LA,56.21024,-3.04778,Fife,Scotland,United Kingdom
+Buckhaven Library,KY8 1LD,56.17174,-3.03263,Fife,Scotland,United Kingdom
+Methil Library,KY8 3QR,56.18328,-3.01908,Fife,Scotland,United Kingdom
+Auchtermuchty Library,KY14 7AP,56.29193,-3.23319,Fife,Scotland,United Kingdom
+Waid Library,KY10 3GY,56.22683,-2.70388,Fife,Scotland,United Kingdom
+Newburgh Library,KY14 6DA,56.35088,-3.24019,Fife,Scotland,United Kingdom
+Ladybank Library,KY15 7JS,56.27416,-3.12409,Fife,Scotland,United Kingdom
+Elie Library,KY9 1AZ,56.18946,-2.83109,Fife,Scotland,United Kingdom
+Cupar Library,KY15 5AS,56.31823,-3.01215,Fife,Scotland,United Kingdom
+Newport Library,DD6 8DD,56.43948,-2.94037,Fife,Scotland,United Kingdom
+St. Monans Library,KY10 2DH,56.20703,-2.76349,Fife,Scotland,United Kingdom
+St. Andrews Library,KY16 9NN,56.33994,-2.79578,Fife,Scotland,United Kingdom
+Tayport Library,DD6 9JY,56.44604,-2.88061,Fife,Scotland,United Kingdom
+Anniesland Library and Learning Centre,G13 1LE,55.89056,-4.32494,Glasgow,Scotland,United Kingdom
+Baillieston Library and Learning Centre,G69 6AH,55.85111,-4.10833,Glasgow,Scotland,United Kingdom
+Barmulloch Library and Learning Centre,G21 3PX,55.89078,-4.20168,Glasgow,Scotland,United Kingdom
+Bridgeton Library and Learning Centre,G40 2QH,55.85086,-4.22581,Glasgow,Scotland,United Kingdom
+Busby Community Library,G76 8DX,55.78149,-4.26705,East Renfrewshire,Scotland,United Kingdom
+Cardonald Library and Learning Centre,G52 3BU,55.84499,-4.34784,Glasgow,Scotland,United Kingdom
+Castlemilk Library and Learning Centre,G45 9TN,55.80686,-4.23351,Glasgow,Scotland,United Kingdom
+Clarkston Community Library,G76 8NE,55.79078,-4.27695,East Renfrewshire,Scotland,United Kingdom
+Couper Institute Library,G44 3DA,55.81603,-4.26429,Glasgow,Scotland,United Kingdom
+Dennistoun Library and Learning Centre,G31 2NA,55.85994,-4.22155,Glasgow,Scotland,United Kingdom
+Drumchapel Library and Learning Centre,G15 8LX,55.91015,-4.37544,Glasgow,Scotland,United Kingdom
+Easterhouse - The Library at the Bridge,G34 9JW,55.86798,-4.11893,Glasgow,Scotland,United Kingdom
+Elder Park Library and Learning Centre,G51 3TZ,55.86199,-4.32195,Glasgow,Scotland,United Kingdom
+Giffnock Community Library,G46 6JF,55.80424,-4.29392,East Renfrewshire,Scotland,United Kingdom
+Gorbals Library and Learning Centre,G5 9XD,55.84926,-4.25066,Glasgow,Scotland,United Kingdom
+Govanhill Library and Learning Centre,G42 7JU,55.83782,-4.26156,Glasgow,Scotland,United Kingdom
+Hillhead Library and Learning Centre,G12 8AP,55.87654,-4.29169,Glasgow,Scotland,United Kingdom
+Ibrox Library and Learning Centre,G51 1SL,55.852,-4.29935,Glasgow,Scotland,United Kingdom
+Knightswood Library and Learning Centre,G13 3BB,55.88915,-4.35693,Glasgow,Scotland,United Kingdom
+Langside Library and Learning Centre,G32 9QE,55.84074,-4.15661,Glasgow,Scotland,United Kingdom
+Library at GOMA,G1 3AH,55.85982,-4.25251,Glasgow,Scotland,United Kingdom
+Maryhill Library and Learning Centre,G20 9AD,55.89125,-4.29096,Glasgow,Scotland,United Kingdom
+Milton Library and Learning Centre,G22 7QR,55.89697,-4.25566,Glasgow,Scotland,United Kingdom
+Netherlee Community Library,G44 3PH,55.80321,-4.26715,Glasgow,Scotland,United Kingdom
+Parkhead Library and Learning Centre,G31 4XA,55.85015,-4.19477,Glasgow,Scotland,United Kingdom
+Partick Library and Learning Centre,G11 6AB,55.87057,-4.30389,Glasgow,Scotland,United Kingdom
+Pollok Library and Learning Centre,G53 6EN,55.82239,-4.34965,Glasgow,Scotland,United Kingdom
+Pollokshaws Library and Learning Centre,G43 1RW,55.82504,-4.2954,Glasgow,Scotland,United Kingdom
+Pollokshields Library and Learning Centre,G41 2LF,55.84107,-4.27291,Glasgow,Scotland,United Kingdom
+Possilpark Library and Learning Centre,G22 5JJ,55.88241,-4.25507,Glasgow,Scotland,United Kingdom
+Riddrie Library and Learning Centre,G33 2QF,55.86702,-4.18483,Glasgow,Scotland,United Kingdom
+Royston Library and Learning Centre,G21 2QW,55.86955,-4.23081,Glasgow,Scotland,United Kingdom
+Shettleston Library and Learning Centre,G32 7AX,55.84864,-4.17522,Glasgow,Scotland,United Kingdom
+Springburn Library and Learning Centre,G21 1JY,55.88406,-4.23006,Glasgow,Scotland,United Kingdom
+The Mitchell Library,G3 7DN,55.86506,-4.27219,Glasgow,Scotland,United Kingdom
+Thornliebank Community Library,G46 7JS,55.79801,-4.30375,East Renfrewshire,Scotland,United Kingdom
+Whiteinch Library and Learning Centre,G14 9RL,55.87429,-4.33338,Glasgow,Scotland,United Kingdom
+Woodside Library and Learning Centre,G3 6JQ,55.87164,-4.26749,Glasgow,Scotland,United Kingdom
+Achiltibuie Library,IV26 2YG,58.02142,-5.34626,Highland,Scotland,United Kingdom
+Alness Library,IV17 0QB,57.69629,-4.25738,Highland,Scotland,United Kingdom
+Ardersier Library,IV2 7SU,57.56816,-4.03532,Highland,Scotland,United Kingdom
+Ardnamurchan Community Library,PH36 4JA,56.70411,-5.57105,Highland,Scotland,United Kingdom
+Aviemore Library,PH22 1SF,57.19919,-3.82752,Highland,Scotland,United Kingdom
+Badenoch Library and Learning Centre,PH21 1EH,57.07894,-4.05199,Highland,Scotland,United Kingdom
+Beauly Library,IV4 7EH,57.48149,-4.46462,Highland,Scotland,United Kingdom
+Bettyhill Library/Service Point,KW14 7SS,58.52869,-4.22163,Highland,Scotland,United Kingdom
+Bonar Bridge Library,IV24 3EA,57.89396,-4.34723,Highland,Scotland,United Kingdom
+Broadford Library and Service Point,IV49 9AB,57.2419,-5.91238,Highland,Scotland,United Kingdom
+Brora Library,KW9 6PD,58.01053,-3.85344,Highland,Scotland,United Kingdom
+Caol Library,PH33 7DP,56.83864,-5.10778,Highland,Scotland,United Kingdom
+Cromarty Library,IV11 8XA,57.68027,-4.0308,Highland,Scotland,United Kingdom
+Culloden Library,IV2 7LL,57.48741,-4.14239,Highland,Scotland,United Kingdom
+Dornoch Library,IV25 3SH,57.88073,-4.02953,Highland,Scotland,United Kingdom
+Fort William Library,PH33 6EU,56.81921,-5.10916,Highland,Scotland,United Kingdom
+Fortrose Community Library,IV10 8TW,57.57996,-4.12995,Highland,Scotland,United Kingdom
+Gairloch Library,IV21 2BP,57.72888,-5.69272,Highland,Scotland,United Kingdom
+Glenurquhart Community Library,IV63 6XA,57.3282,-4.48478,Highland,Scotland,United Kingdom
+Golspie Library,KW10 6RF,57.97549,-3.97342,Highland,Scotland,United Kingdom
+Grantown on Spey Library,PH26 3HF,57.33147,-3.60675,Highland,Scotland,United Kingdom
+Helmsdale Library/Service Point,KW8 6JX,58.11575,-3.64963,Highland,Scotland,United Kingdom
+Inshes Community Library,IV2 3RF,57.46434,-4.19095,Highland,Scotland,United Kingdom
+Invergordon Library,IV18 0DG,57.68838,-4.17136,Highland,Scotland,United Kingdom
+Inverness Library,IV1 1NH,57.48097,-4.22571,Highland,Scotland,United Kingdom
+Kinlochleven Library,PH50 4QH,56.71501,-4.96597,Highland,Scotland,United Kingdom
+Knoydart Library,PH41 4PL,57.04051,-5.69777,Highland,Scotland,United Kingdom
+Kyle of Lochalsh Library,IV40 8AB,57.28163,-5.71594,Highland,Scotland,United Kingdom
+Lairg Library Community Centre,IV27 4DD,58.02355,-4.39717,Highland,Scotland,United Kingdom
+Lochcarron Library,IV54 8YQ,57.39041,-5.51058,Highland,Scotland,United Kingdom
+Muir of Ord Library,IV6 7RR,57.5163,-4.45328,Highland,Scotland,United Kingdom
+Nairn Library,IV12 4AU,57.58505,-3.86835,Highland,Scotland,United Kingdom
+Plockton Library,IV52 8TG,57.34167,-5.64921,Highland,Scotland,United Kingdom
+Portree Community Library,IV51 9ET,57.41278,-6.20359,Highland,Scotland,United Kingdom
+Tain Library,IV19 1AZ,57.81029,-4.05338,Highland,Scotland,United Kingdom
+Thurso Library,KW14 7AF,58.59165,-3.52422,Highland,Scotland,United Kingdom
+Ullapool Community Library,IV26 2UN,57.89825,-5.1549,Highland,Scotland,United Kingdom
+Wick Library,KW1 5SA,58.43551,-3.10536,Highland,Scotland,United Kingdom
+Gourock Library,PA19 1QU,55.96121,-4.81798,Inverclyde,Scotland,United Kingdom
+Greenock Central Library,PA15 1JB,55.94805,-4.75714,Inverclyde,Scotland,United Kingdom
+Inverkip and Wemyss Bay Library,PA15 1XA,55.9505,-4.7621,Inverclyde,Scotland,United Kingdom
+Kilmacolm Library,PA13 4HB,55.89385,-4.62792,Inverclyde,Scotland,United Kingdom
+Port Glasgow Library,PA14 5EG,55.93488,-4.6874,Inverclyde,Scotland,United Kingdom
+South West Branch Library,PA16 9HG,55.94231,-4.7851,Inverclyde,Scotland,United Kingdom
+Watt Library,PA16 8JX,55.95108,-4.76722,Inverclyde,Scotland,United Kingdom
+Dalkeith Library,EH22 1AE,55.89307,-3.07014,Midlothian,Scotland,United Kingdom
+Danderhall Library,EH22 1QL,55.91577,-3.11037,Midlothian,Scotland,United Kingdom
+Gorebridge Library,EH23 4TT,55.84505,-3.05035,Midlothian,Scotland,United Kingdom
+Lasswade Library,EH19 2LA,55.87252,-3.11482,Midlothian,Scotland,United Kingdom
+Loanhead Library,EH20 9LA,55.87883,-3.15441,Midlothian,Scotland,United Kingdom
+Newbattle Library,EH22 4SX,55.87444,-3.04866,Midlothian,Scotland,United Kingdom
+Newtongrange Library,EH22 4LG,55.86726,-3.06587,Midlothian,Scotland,United Kingdom
+Penicuik Library,EH26 9EP,55.83005,-3.22962,Midlothian,Scotland,United Kingdom
+Roslin Library,EH25 9LD,55.85717,-3.16467,Midlothian,Scotland,United Kingdom
+Aberlour Library,AB38 9QA,57.47128,-3.22423,Moray,Scotland,United Kingdom
+Buckie Library,AB56 1HB,57.67615,-2.96735,Moray,Scotland,United Kingdom
+Burghead Library,IV30 5UQ,57.70072,-3.48675,Moray,Scotland,United Kingdom
+Cullen Library,AB56 4AF,57.68832,-2.81593,Moray,Scotland,United Kingdom
+Dufftown Library,AB55 4AB,57.44542,-3.12835,Moray,Scotland,United Kingdom
+Elgin Library,IV30 1HS,57.65082,-3.31387,Moray,Scotland,United Kingdom
+Forres Library,IV36 1BU,57.61206,-3.60966,Moray,Scotland,United Kingdom
+Keith Library,AB55 5DP,57.54272,-2.9539,Moray,Scotland,United Kingdom
+Lossiemouth Library,IV31 6JU,57.71356,-3.29618,Moray,Scotland,United Kingdom
+Tomintoul Library,AB37 9HA,57.25421,-3.38285,Moray,Scotland,United Kingdom
+Ardrossan Library,KA22 8BT,55.6405,-4.81557,North Ayrshire,Scotland,United Kingdom
+Arran Library,KA27 8DL,55.5776,-5.15342,North Ayrshire,Scotland,United Kingdom
+Stevenston Library,KA20 3AB,55.64061,-4.75658,North Ayrshire,Scotland,United Kingdom
+Beith Library,KA15 2AD,55.75169,-4.63177,North Ayrshire,Scotland,United Kingdom
+Bourtreehill Library,KA11 1JU,55.61924,-4.63465,North Ayrshire,Scotland,United Kingdom
+"Dalry Library, Dalry",KA24 5AW,55.70858,-4.71987,North Ayrshire,Scotland,United Kingdom
+Dreghorn Library,KA11 4AQ,55.61017,-4.61638,North Ayrshire,Scotland,United Kingdom
+Fairlie Library,KA29 0AD,55.75916,-4.85448,North Ayrshire,Scotland,United Kingdom
+Irvine Library,KA12 8AN,55.616,-4.66766,North Ayrshire,Scotland,United Kingdom
+Kilbirnie Library,KA25 6BL,55.75105,-4.68652,North Ayrshire,Scotland,United Kingdom
+Kilwinning Library,KA13 6EP,55.65256,-4.70269,North Ayrshire,Scotland,United Kingdom
+Largs Library,KA30 9AG,55.79558,-4.8659,North Ayrshire,Scotland,United Kingdom
+Millport Library,KA28 0DG,55.75393,-4.92661,North Ayrshire,Scotland,United Kingdom
+Saltcoats Library,KA21 5LS,55.63554,-4.78717,North Ayrshire,Scotland,United Kingdom
+Skelmorlie Library,PA17 5AH,55.87086,-4.88425,North Ayrshire,Scotland,United Kingdom
+West Kilbride Library,KA23 9EQ,55.69495,-4.85999,North Ayrshire,Scotland,United Kingdom
+Abronhill Library,G67 3BE,55.95996,-3.9517,North Lanarkshire,Scotland,United Kingdom
+Airdrie Public Library,ML6 0AG,55.86645,-3.98299,North Lanarkshire,Scotland,United Kingdom
+Bellshill Cultural Centre Library,ML4 1RJ,55.8183,-4.02286,North Lanarkshire,Scotland,United Kingdom
+Chapelhall Library,ML6 8XW,55.83904,-3.94919,North Lanarkshire,Scotland,United Kingdom
+Chryston Library,G69 9DL,55.9043,-4.10421,North Lanarkshire,Scotland,United Kingdom
+Cleland Library,ML1 5QW,55.80217,-3.91404,North Lanarkshire,Scotland,United Kingdom
+Coatbridge Library,ML5 3BJ,55.86168,-4.02434,North Lanarkshire,Scotland,United Kingdom
+Condorrat Library,G68 9AE,55.93634,-4.02769,North Lanarkshire,Scotland,United Kingdom
+Cumbernauld Central Library,G67 1EE,55.94691,-3.98985,North Lanarkshire,Scotland,United Kingdom
+Eastfield Library,G68 9JH,55.95087,-4.00389,North Lanarkshire,Scotland,United Kingdom
+Kilsyth Library,G65 0HT,55.97744,-4.05128,North Lanarkshire,Scotland,United Kingdom
+Moodiesburn Library,G69 0DL,55.91208,-4.0919,North Lanarkshire,Scotland,United Kingdom
+Motherwell Library,ML1 3BZ,55.78916,-3.99395,North Lanarkshire,Scotland,United Kingdom
+New Stevenston Library,ML1 4HX,55.81149,-3.98104,North Lanarkshire,Scotland,United Kingdom
+Newarthill Library,ML1 5BB,55.814,-3.94833,North Lanarkshire,Scotland,United Kingdom
+Newmains Library,ML2 9AX,55.78318,-3.87876,North Lanarkshire,Scotland,United Kingdom
+Shotts Library,ML7 5EN,55.81893,-3.79086,North Lanarkshire,Scotland,United Kingdom
+Stepps Library,G33 6FH,55.89395,-4.14006,North Lanarkshire,Scotland,United Kingdom
+Viewpark Library,G71 5AT,55.8291,-4.05175,North Lanarkshire,Scotland,United Kingdom
+Wishaw Library,ML2 7LP,55.77497,-3.92057,North Lanarkshire,Scotland,United Kingdom
+Orkney Library and Archive,KW15 1AG,58.982,-2.96238,Orkney Islands,Scotland,United Kingdom
+Stromness Library,KW16 3AA,58.96333,-3.29768,Orkney Islands,Scotland,United Kingdom
+A. K. Bell Library: Library Headquarters,PH2 8EP,56.39551,-3.43689,Perth and Kinross,Scotland,United Kingdom
+Alyth Library,PH11 8AJ,56.62133,-3.22875,Perth and Kinross,Scotland,United Kingdom
+Auchterarder Library,PH3 1BL,56.29693,-3.7074,Perth and Kinross,Scotland,United Kingdom
+Birnam Library,PH8 0DS,56.55789,-3.57705,Perth and Kinross,Scotland,United Kingdom
+Blairgowrie Library,PH10 6AW,56.59114,-3.33886,Perth and Kinross,Scotland,United Kingdom
+Breadalbane Community Library,PH15 2DU,56.61728,-3.86935,Perth and Kinross,Scotland,United Kingdom
+Comrie Library,PH6 2DS,56.37515,-3.98602,Perth and Kinross,Scotland,United Kingdom
+Coupar Angus Library,PH13 9AE,56.54649,-3.26616,Perth and Kinross,Scotland,United Kingdom
+Loch Leven Community Library,KY13 8FQ,56.2166,-3.42525,Perth and Kinross,Scotland,United Kingdom
+North Inch Community Library,PH1 5BF,56.41002,-3.43823,Perth and Kinross,Scotland,United Kingdom
+Pitlochry Library,PH16 5BF,56.69899,-3.74016,Perth and Kinross,Scotland,United Kingdom
+Scone Library,PH2 6LJ,56.41865,-3.40529,Perth and Kinross,Scotland,United Kingdom
+Strathearn Community Library,PH7 3JN,56.36996,-3.83635,Perth and Kinross,Scotland,United Kingdom
+Bishopton Library,PA7 5JW,55.91048,-4.5105,Renfrewshire,Scotland,United Kingdom
+Bridge of Weir Library,PA11 3LJ,55.85624,-4.57279,Renfrewshire,Scotland,United Kingdom
+Erskine Library,PA8 7AA,55.90388,-4.44862,Renfrewshire,Scotland,United Kingdom
+Ferguslie Park Library,PA3 1NT,55.84918,-4.45347,Renfrewshire,Scotland,United Kingdom
+Foxbar Library,PA2 0JX,55.8277,-4.46385,Renfrewshire,Scotland,United Kingdom
+Glenburn Library,PA2 8DX,55.82338,-4.43142,Renfrewshire,Scotland,United Kingdom
+Johnstone Library,PA5 8FA,55.83511,-4.51268,Renfrewshire,Scotland,United Kingdom
+Linwood Library,PA3 3DB,55.8481,-4.48927,Renfrewshire,Scotland,United Kingdom
+Lochwinnoch Library,PA12 4AB,55.79611,-4.62722,Renfrewshire,Scotland,United Kingdom
+Paisley Central Library,PA1 1ND,55.84567,-4.41631,Renfrewshire,Scotland,United Kingdom
+Ralston Library,PA1 3BL,55.84504,-4.3757,Renfrewshire,Scotland,United Kingdom
+Renfrew Library,PA4 8LJ,55.87011,-4.39731,Renfrewshire,Scotland,United Kingdom
+Coldstream Library,TD12 4AE,55.65209,-2.25089,Scottish Borders,Scotland,United Kingdom
+Duns Library,TD11 3AU,55.77783,-2.34818,Scottish Borders,Scotland,United Kingdom
+Earlston Library,TD4 6JP,55.63878,-2.66153,Scottish Borders,Scotland,United Kingdom
+Eyemouth Library,TD14 5JE,55.87143,-2.08866,Scottish Borders,Scotland,United Kingdom
+Galashiels Library,TD1 3JQ,55.61408,-2.80694,Scottish Borders,Scotland,United Kingdom
+Hawick Library,TD9 9QT,55.42725,-2.78485,Scottish Borders,Scotland,United Kingdom
+Innerleithen Library Contact Centre,EH44 6LA,55.61956,-3.05882,Scottish Borders,Scotland,United Kingdom
+Jedburgh Library,TD8 6AS,55.47716,-2.55634,Scottish Borders,Scotland,United Kingdom
+Kelso Library,TD5 7JH,55.59989,-2.43507,Scottish Borders,Scotland,United Kingdom
+Melrose Library,TD6 9PN,55.59715,-2.72,Scottish Borders,Scotland,United Kingdom
+Peebles Library,EH45 8AG,55.65169,-3.18893,Scottish Borders,Scotland,United Kingdom
+Selkirk Library,TD7 4LE,55.54864,-2.84213,Scottish Borders,Scotland,United Kingdom
+Shetland Library,ZE1 0EL,60.1533,-1.14656,Shetland Islands,Scotland,United Kingdom
+Alloway Library,KA7 4QQ,55.43128,-4.63163,South Ayrshire,Scotland,United Kingdom
+Ballantrae Library,KA26 0NB,55.10121,-5.00489,South Ayrshire,Scotland,United Kingdom
+Forehill Library,KA7 3EN,55.45348,-4.61737,South Ayrshire,Scotland,United Kingdom
+Girvan Library,KA26 9HE,55.24495,-4.85224,South Ayrshire,Scotland,United Kingdom
+Maybole Library,KA19 7AB,55.35408,-4.68161,South Ayrshire,Scotland,United Kingdom
+Mossblown Library,KA6 5DZ,55.48804,-4.52624,South Ayrshire,Scotland,United Kingdom
+Prestwick Library,KA9 1PQ,55.49921,-4.61203,South Ayrshire,Scotland,United Kingdom
+South Ayrshire Libraries. Carnegie Library,KA8 8EB,55.46622,-4.63029,South Ayrshire,Scotland,United Kingdom
+Symington Library,KA1 5QZ,55.55056,-4.56168,South Ayrshire,Scotland,United Kingdom
+Tarbolton Lorimer Library,KA5 5QA,55.51168,-4.48667,South Ayrshire,Scotland,United Kingdom
+Troon Library,KA10 6EF,55.54117,-4.65948,South Ayrshire,Scotland,United Kingdom
+Avondale Community Wing,ML10 6JW,55.68088,-4.06321,,,
+Biggar Public Library,ML12 6FX,55.62143,-3.52448,South Lanarkshire,Scotland,United Kingdom
+Blackwood and Kirkmuirhill Community Wing Library,ML11 9SB,55.66754,-3.9168,South Lanarkshire,Scotland,United Kingdom
+Blantyre Library,G72 0QD,55.79244,-4.08828,South Lanarkshire,Scotland,United Kingdom
+Bothwell Library,G71 8RG,55.8022,-4.06567,South Lanarkshire,Scotland,United Kingdom
+Burnbank Library,ML3 0NA,55.78165,-4.06745,South Lanarkshire,Scotland,United Kingdom
+Cambuslang Library,G72 7EX,55.81945,-4.16586,South Lanarkshire,Scotland,United Kingdom
+Carluke Library,ML8 4DF,55.73367,-3.83366,South Lanarkshire,Scotland,United Kingdom
+East Kilbride Central Library,G74 1PG,55.75971,-4.1763,South Lanarkshire,Scotland,United Kingdom
+Fairhill Library,ML3 8HJ,55.76418,-4.05784,South Lanarkshire,Scotland,United Kingdom
+Forth Library,ML11 8AE,55.7694,-3.68545,South Lanarkshire,Scotland,United Kingdom
+Greenhills Library,G75 8TT,55.74517,-4.20629,South Lanarkshire,Scotland,United Kingdom
+Halfway Library,G72 7PJ,55.81234,-4.14706,South Lanarkshire,Scotland,United Kingdom
+Hamilton Town House Library,ML3 6HH,55.77782,-4.03874,South Lanarkshire,Scotland,United Kingdom
+Hillhouse Library,ML3 9TX,55.77455,-4.07899,South Lanarkshire,Scotland,United Kingdom
+Lanark Library,ML11 7LZ,55.6743,-3.78186,South Lanarkshire,Scotland,United Kingdom
+Larkhall Library,ML9 1DR,55.7403,-3.97455,South Lanarkshire,Scotland,United Kingdom
+Lesmahagow Library,ML11 0EF,55.63742,-3.88676,South Lanarkshire,Scotland,United Kingdom
+Rutherglen Library,G73 2HB,55.82867,-4.2136,South Lanarkshire,Scotland,United Kingdom
+Springhall Library,G73 5HW,55.80991,-4.18796,South Lanarkshire,Scotland,United Kingdom
+St Leonards Library,G74 2AT,55.76354,-4.1517,South Lanarkshire,Scotland,United Kingdom
+Stonehouse Library,ML9 3JL,55.68716,-3.99775,South Lanarkshire,Scotland,United Kingdom
+Uddingston Library,G71 7PA,55.81883,-4.07862,South Lanarkshire,Scotland,United Kingdom
+Balfron Library,G63 0TW,56.06954,-4.33588,Stirling,Scotland,United Kingdom
+Bannockburn Library,FK7 8HZ,56.08952,-3.90981,Stirling,Scotland,United Kingdom
+Bridge of Allan Library,FK9 4AT,56.15292,-3.94744,Stirling,Scotland,United Kingdom
+Callander Library,FK17 8BN,56.24253,-4.21387,Stirling,Scotland,United Kingdom
+Cambusbarron Library,FK7 9NU,56.10859,-3.96685,Stirling,Scotland,United Kingdom
+Cowie Library,FK7 7BS,56.08034,-3.86839,Stirling,Scotland,United Kingdom
+Doune Library,FK16 6BJ,56.18933,-4.05172,Stirling,Scotland,United Kingdom
+Drymen Library,G63 0BL,56.066,-4.45351,Stirling,Scotland,United Kingdom
+Dunblane Library,FK15 0ER,56.18865,-3.96335,Stirling,Scotland,United Kingdom
+Fallin Library,FK7 7JE,56.10434,-3.8748,Stirling,Scotland,United Kingdom
+Killin Library,FK21 8UW,56.46709,-4.31854,Stirling,Scotland,United Kingdom
+Plean Library,FK7 8BT,56.06586,-3.87628,Stirling,Scotland,United Kingdom
+Raploch Xpress Library,FK8 1RD,56.12954,-3.94553,Stirling,Scotland,United Kingdom
+St Ninians Library,FK7 0DB,56.10146,-3.93377,Stirling,Scotland,United Kingdom
+Stirling Council Library Service. Central Library,FK8 2HX,56.11808,-3.93884,Stirling,Scotland,United Kingdom
+Strathblane Library,G63 9ED,55.98525,-4.3083,Stirling,Scotland,United Kingdom
+Alexandria Library,G83 0DA,55.98712,-4.58344,West Dunbartonshire,Scotland,United Kingdom
+Balloch Library,G83 8BW,56.00207,-4.57292,West Dunbartonshire,Scotland,United Kingdom
+Clydebank Library,G81 1XH,55.90127,-4.4087,West Dunbartonshire,Scotland,United Kingdom
+Dalmuir Library,G81 4LX,55.91167,-4.42879,West Dunbartonshire,Scotland,United Kingdom
+Dumbarton Library,G82 1BD,55.94562,-4.56603,West Dunbartonshire,Scotland,United Kingdom
+Duntocher Library,G81 6HF,55.92467,-4.41611,West Dunbartonshire,Scotland,United Kingdom
+Faifley Library,G81 5BS,55.9308,-4.39352,West Dunbartonshire,Scotland,United Kingdom
+Parkhall Library,G81 3EF,55.9152,-4.41309,West Dunbartonshire,Scotland,United Kingdom
+Almondbank Library,EH54 5EH,55.89689,-3.49726,West Lothian,Scotland,United Kingdom
+Armadale Community Centre and Library,EH48 3QB,55.89958,-3.69913,West Lothian,Scotland,United Kingdom
+Bathgate Library,EH48 1TS,55.9014,-3.64425,West Lothian,Scotland,United Kingdom
+Blackburn Connected,EH47 7LL,55.87462,-3.62018,West Lothian,Scotland,United Kingdom
+Blackridge Library,EH48 3SP,55.88483,-3.76179,West Lothian,Scotland,United Kingdom
+Carmondean Library,EH54 8PT,55.9018,-3.54598,West Lothian,Scotland,United Kingdom
+East Calder Library,EH53 0EP,55.89636,-3.46054,West Lothian,Scotland,United Kingdom
+Fauldhouse Partnership Centre,EH47 9JD,55.82953,-3.70419,West Lothian,Scotland,United Kingdom
+Lanthorn Library,EH54 6QY,55.88522,-3.51537,West Lothian,Scotland,United Kingdom
+Linlithgow Library,EH49 7EZ,55.97642,-3.60075,West Lothian,Scotland,United Kingdom
+Pumpherston Library,EH53 0LF,55.90907,-3.49146,West Lothian,Scotland,United Kingdom
+West Calder Library,EH55 8BQ,55.85277,-3.56673,West Lothian,Scotland,United Kingdom
+Whitburn Library,EH47 0AR,55.86596,-3.68868,West Lothian,Scotland,United Kingdom
