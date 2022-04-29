@@ -16,6 +16,6 @@ This .csv dataset contains the names, postcodes, approximate latitude and longit
 | country   | string | Country (only UK in this dataset)         |
 
 
-##Example of coverage
+## Example of coverage
 ![Screenshot 2022-04-29 at 11 25 33](https://user-images.githubusercontent.com/14912609/165927758-94869db8-19bf-4742-a758-865fc6a4b188.png)
 A simple R script for this visualisation is included in the repository.
